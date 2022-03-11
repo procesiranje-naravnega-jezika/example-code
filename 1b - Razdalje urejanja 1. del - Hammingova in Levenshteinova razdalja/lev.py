@@ -79,7 +79,7 @@ def PrintEditOperations(distances, a, b):
 # Vhod: dva niza poljubnih velikosti
 # Izhod: vrednost Levenshteinove podobnosti na intervalu [0, 1]
 
-def lev_sim(a, b):
+def sim_lev(a, b):
     a_len = len(a)
     b_len = len(b)
     
