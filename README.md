@@ -1,6 +1,6 @@
-# <img src="https://github.com/procesiranje-naravnega-jezika/example-code/blob/main/logo.png?raw=true" width="32" /> Procesiranje naravnega jezika
+# <img src="https://github.com/procesiranje-naravnega-jezika/example-code/blob/main/logo.png?raw=true" width="32" /> Obdelava naravnega jezika
 
-V tem repozitoriju se nahaja programska koda, ki služi kot dodatek člankom o tematikah v procesiranju naravnega jezika, objavljenih v reviji [Presek](http://www.presek.si/).
+V tem repozitoriju se nahaja programska koda, ki služi kot dodatek člankom o tematikah v obdelavi naravnega jezika, objavljenih v reviji [Presek](http://www.presek.si/).
 
 ## Tehnike predobdelave besedil, razdalje urejanja in fonetični algoritmi
 * :white_check_mark: [1a - Tehnike predobdelave besedil](1a%20-%20Tehnike%20predobdelave%20besedil) ( :memo: [Članek](https://www.dlib.si/details/URN:NBN:SI:DOC-SY9GPFUY/) )
