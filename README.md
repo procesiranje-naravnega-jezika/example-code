@@ -20,7 +20,7 @@ V tem repozitoriju se nahaja programska koda, ki služi kot dodatek člankom o t
 * :white_check_mark: [4d - Samodejno ocenjevanje kakovosti strojnih prevodov 1. del - WER in TER](4d%20-%20Metrike%201.%20del%20-%20WER%20in%20TER)
 * :construction: [4e - Samodejno ocenjevanje kakovosti strojnih prevodov 2. del - BLEU]() [v delu - predvidoma 2024]
 * :construction: [4f - Samodejno ocenjevanje kakovosti strojnih prevodov 3. del - chrF in chrF++]() [v delu - predvidoma 2024]
-* :construction: [4g - Samodejno ocenjevanje kakovosti strojnih prevodov 4. del - cOMET]() [v delu - predvidoma 2024]
+* :construction: [4g - Samodejno ocenjevanje kakovosti strojnih prevodov 4. del - COMET]() [v delu - predvidoma 2024]
 
 ## Strojno prevajanje
 * :construction: [v delu - predvidoma del v 2023/2024 in del v 2024/2025]
