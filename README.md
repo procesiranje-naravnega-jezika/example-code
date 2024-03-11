@@ -17,6 +17,7 @@ V tem repozitoriju se nahaja programska koda, ki služi kot dodatek člankom o t
 * :construction: [v delu - predvidoma 2024/2025]
 
 ## Strojno prevajanje in metrike strojnega prevajanja
+* :white_check_mark: [4d - Samodejno ocenjevanje kakovosti strojnih prevodov 1. del - WER in TER](4d%20-%20Metrike%201.%20del%20-%20WER%20in%20TER)
 * :construction: [v delu - predvidoma del v 2023/2024 in del v 2024/2025]
 
 ---
