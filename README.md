@@ -23,7 +23,7 @@ V tem repozitoriju se nahaja programska koda, ki služi kot dodatek člankom o t
 * :construction: [4d - Samodejno ocenjevanje kakovosti strojnih prevodov 4. del - COMET]() [v delu - predvidoma 2024]
 
 ## 5. Strojno prevajanje
-* :construction: [v delu - predvidoma del v 2023/2024 in del v 2024/2025]
+* :construction: [v delu - predvidoma v 2024/2025]
 
 ---
 Avtorja: Mladen Borovič (mladen.borovic@um.si) in Jani Dugonik (jani.dugonik@um.si)
