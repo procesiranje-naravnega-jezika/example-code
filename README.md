@@ -11,19 +11,22 @@ V tem repozitoriju se nahaja programska koda, ki služi kot dodatek člankom o t
 * :construction: [1f - Oblikoslovno označevanje]() [v delu - predvidoma 2024/2025]
 
 ## 2. Predstavitve besedila in metode glajenja
-* :construction: [v delu - predvidoma 2024/2025]
+* :construction: [v delu - predvidoma 2025]
 
-## 3. Informacijsko poizvedovanje, klasifikacija in kategorizacija besedil
-* :construction: [v delu - predvidoma 2024/2025]
+## 3. Veliki jezikovni modeli
+* :construction: [v delu - predvidoma 2025/2026]
 
-## 4. Metrike za samodejno ocenjevanje kakovosti strojnih prevodov
+## 4. Informacijsko poizvedovanje in klasifikacija besedil
+* :construction: [v delu - predvidoma 2026/2027]
+
+## 5. Metrike za samodejno ocenjevanje kakovosti strojnih prevodov
 * :white_check_mark: [4a - Samodejno ocenjevanje kakovosti strojnih prevodov 1. del - WER in TER](4a%20-%20Metrike%201.%20del%20-%20WER%20in%20TER)
-* :construction: [4b - Samodejno ocenjevanje kakovosti strojnih prevodov 2. del - BLEU]() [v delu - predvidoma 2024]
-* :construction: [4c - Samodejno ocenjevanje kakovosti strojnih prevodov 3. del - chrF in chrF++]() [v delu - predvidoma 2024]
-* :construction: [4d - Samodejno ocenjevanje kakovosti strojnih prevodov 4. del - COMET]() [v delu - predvidoma 2024]
+* :construction: [4b - Samodejno ocenjevanje kakovosti strojnih prevodov 2. del - BLEU]() [v delu - predvidoma 2025]
+* :construction: [4c - Samodejno ocenjevanje kakovosti strojnih prevodov 3. del - chrF in chrF++]() [v delu - predvidoma 2025]
+* :construction: [4d - Samodejno ocenjevanje kakovosti strojnih prevodov 4. del - COMET]() [v delu - predvidoma 2025]
 
-## 5. Strojno prevajanje
-* :construction: [v delu - predvidoma v 2024/2025]
+## 6. Strojno prevajanje
+* :construction: [v delu - predvidoma v 2026/2027]
 
 ---
 Avtorja: Mladen Borovič (mladen.borovic@um.si) in Jani Dugonik (jani.dugonik@um.si)
